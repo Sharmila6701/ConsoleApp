@@ -5,7 +5,7 @@ package View;
 	import java.util.Scanner;
 
 	import Model.Product;
-	import viewmodel.InventoryViewModel;
+	import ViewModel.InventoryViewModel;
 
 	public class InventoryManagement {
 	    public static void main(String[] args) {
